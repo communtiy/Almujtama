@@ -1,0 +1,5 @@
+AlMujtama Firebase Web Build
+Source: 187-AlMujtama-v127-ACCOUNTING-ANNUAL-TABLE-CLEAN-HEADER.zip
+Web bridge: browser-bridge.js
+Hosting: Firebase Hosting static SPA
+Persistence: Browser IndexedDB compatibility layer
